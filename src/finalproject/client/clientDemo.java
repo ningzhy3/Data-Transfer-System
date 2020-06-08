@@ -23,9 +23,8 @@ public class clientDemo {
 
 
         try{
-            System.out.println(1);
+            
 
-            socket = new Socket("localhost", 8000);
             System.out.println(2);
             os = new ObjectOutputStream(socket.getOutputStream());
             Person person = new Person("jj","redick","texs",40,1,33);
