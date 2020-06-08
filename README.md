@@ -1,2 +1,3 @@
 # FinalProject
-This is a JAVA class project.
+This is a JAVA  project.
+
