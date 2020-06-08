@@ -1,3 +1,3 @@
 # FinalProject
-This is a JAVA  project.
+This is a JAVA  project. LOL
 
